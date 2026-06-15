@@ -1,0 +1,1 @@
+# chrome-snipmemo-indexeddb
